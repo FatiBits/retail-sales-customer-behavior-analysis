@@ -5,6 +5,11 @@ This project analyzes retail transaction data to better understand customer purc
 
 Using Python and cohort analysis techniques, customers were grouped based on their first purchase month, and a retention matrix was created to measure how customer engagement changes across subsequent months.
 
+### Analysis Insights
+اینجا یک نمای کلی از رفتار مشتریان (Retention Heatmap) رو می‌بینید که الگوی بازگشت مشتریان رو به تفکیک ماه نشون می‌ده:
+
+![Customer Retention Heatmap](Convert retention to precentage.jpg)
+
 ## Objectives
 - Clean and prepare raw retail transaction data
 - Perform feature engineering for customer behavior analysis
